@@ -1,0 +1,6 @@
+max_width = 200
+use_small_heuristics = "Max"
+single_line_let_else_max_width = 200
+reorder_imports = true
+imports_granularity = "Item"
+group_imports = "StdExternalCrate"
